@@ -5,34 +5,9 @@
 ## About me
 
 Hello, my name is Johannes Willem (Hans) Fernhout.
-
-### Gentoo
-My operating system of choice is [Gentoo Linux](https://www.gentoo.org/).
-
-I contribute to Gentoo once in a while by submitting pull requests.
-I am the proxy maintainer for Gentoo for:
-- [LZMA](https://www.7-zip.org/sdk.html)
-- [Envchain](https://github.com/sorah/envchain)
-- [Motion](https://motion-project.github.io/)
-
-I also write wiki articles for Gentoo, like:
-- [Fanspeed conrol](https://wiki.gentoo.org/wiki/Fan_speed_control)
-- [IWD](https://wiki.gentoo.org/wiki/Iwd)
-- [Motion](https://wiki.gentoo.org/wiki/Motion)
-- [Open-RC/Init](https://wiki.gentoo.org/wiki/OpenRC/openrc-init)
-
-
-### Krapplet
-I am developing a password manager called [krapplet](https://gitlab.com/hfernh/krapplet). Krapplet can be found on:
-- [PyPI](https://pypi.org/project/krapplet)
-- [Arch' AUR](https://aur.archlinux.org/packages/krapplet)
-- [Gentoo's GURU](https://gitweb.gentoo.org/repo/proj/guru.git/tree/app-admin/krapplet)
-
-The documentation for krapplet can be found on
-[ReadTheDocs](https://krapplet.readthedocs.io/en/latest/index.html).
-
-
-### Employment
-My employer is Oracle; any opinions, views or software are my own, not my employer's.
+My interest in in C and Python programming.
+I also contribute sometimes to Gentoo, be it in proxy maintaining some packages, or extending the wiki.
+Software that I develop include [krapplet](https://gitlab.com/hfernh/krapplet), and [iwdgui](https://gitlab.com/hfernh/iwdgui).
+I work for Oracle; any opinions, views or software are my own, not my employer's.
 
 
