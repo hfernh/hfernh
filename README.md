@@ -6,8 +6,9 @@
 
 Hello, my name is Johannes Willem (Hans) Fernhout.
 My interest is in C and Python programming.
-I also contribute sometimes to [Gentoo](www.gentoo.org), be it in proxy maintaining some packages, or extending the wiki.
-Software that I develop include [krapplet](https://gitlab.com/hfernh/krapplet), and [iwdgui](https://gitlab.com/hfernh/iwdgui).
-I work for Oracle; any opinions, views or software are my own, not my employer's.
+I contribute to [Gentoo](www.gentoo.org), by proxy maintaining some packages, and extending the wiki.
+Software that I develop include [krapplet](https://gitlab.com/hfernh/krapplet) (a password manager), and [iwdgui](https://gitlab.com/hfernh/iwdgui) (a frontend for [IWD](https://iwd.wiki.kernel.org/).
+
+I work for [Oracle](www.oracle.com); all opinions, views and software here are my own, not my Oracle's.
 
 
