@@ -9,6 +9,6 @@ My interest is in C and Python programming.
 I contribute to [Gentoo](www.gentoo.org), by proxy maintaining some packages, and extending the wiki.
 Software that I develop include [krapplet](https://gitlab.com/hfernh/krapplet) (a password manager), and [iwdgui](https://gitlab.com/hfernh/iwdgui) (a frontend for [IWD](https://iwd.wiki.kernel.org/).
 
-I work for [Oracle](www.oracle.com); all opinions, views and software here are my own, not my Oracle's.
+I work for [Oracle](www.oracle.com); all opinions, comments, views and software here are my own, not Oracle's.
 
 
